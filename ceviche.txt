@@ -1,12 +1,17 @@
 Ceviche "La Cafeta"
 
 Ingregientes:
-- Pescado
+- Pescado 
 - Limón
 - Pulpa de Cangrejo
 - Camote
 - Pulpo
 - ají
+- camote
+- choclo
+- cebolla 
+- sal 
+
 
 Preparación:
 - Exprimir los limones.
