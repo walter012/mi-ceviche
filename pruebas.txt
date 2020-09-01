@@ -1,0 +1,32 @@
+Pruebas 
+Login  de accesos usuario valido 
+1.	Ingresar a sitio web 
+2.	Ingresar usuario y contraseña 
+Login  de accesos usuario invalido
+1.	Ingresar a sitio web 
+2.	Ingresar usuario y contraseña incorrecta  
+3.	Mensaje correo invalido 
+Cambiar contraseña de usuario 
+1.	Ingresar sitio web 
+2.	Ingresar perfil de usuario 
+3.	Click cambiar contraseña 
+4.	Ingresa contraseña en campo nueva contraseña 
+5.	Ingresa contraseña en campo confirmar contraseña 
+6.	Click en Guardar 
+
+Buscador de productos 
+1.	Ingresar sitio web 
+2.	Ingresar nombre del producto en el buscador
+3.	Click en lupa buscador 
+4.	Resultados de producto buscado 
+
+Buscador de productos sin nombre
+1.	Ingresar sitio web 
+2.	dejar en blanco   el buscador
+3.	Click en lupa buscador 
+4.	Resultados de producto buscado 
+
+Correo 
+1.	Ingresar a sitio web 
+2.	Click correo del sitio web 
+
